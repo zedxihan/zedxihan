@@ -1,4 +1,6 @@
-<h1 align="center">ZEDXIHAN</h1>
+<h1 align="center">
+    <pre>ZEDXIHAN</pre>
+</h1>
 
 ###
 
@@ -8,7 +10,9 @@
     alt="activity-graph graph"  />
 </div>
 
-## Tech Stack
+<h2 align="center">
+     Tech Stack
+</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,react,js,ts,tailwind,nodejs,npm,bun,vite,supabase,git,cloudflare">
