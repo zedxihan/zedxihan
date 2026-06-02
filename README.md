@@ -15,7 +15,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,react,js,ts,tailwind,c,nodejs,npm,bun,vite,supabase,git,cloudflare">
+  <img src="https://skillicons.dev/icons?i=linux,arch,nix,react,ts,tailwind,c,nodejs,bun,vite,git,cloudflare,supabase">
 </div>
 
 ###
